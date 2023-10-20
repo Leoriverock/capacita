@@ -1,0 +1,5 @@
+logs/
+test/
+config.inc.php
+parent_data.php
+tabdata.php
